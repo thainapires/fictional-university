@@ -1,0 +1,33 @@
+[25-Feb-2021 19:38:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[25-Feb-2021 19:40:04 UTC] PHP Parse error:  syntax error, unexpected ''<p>2+2</p>;' (T_ENCAPSED_AND_WHITESPACE) in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[25-Feb-2021 19:40:05 UTC] PHP Parse error:  syntax error, unexpected ''<p>2+2</p>;' (T_ENCAPSED_AND_WHITESPACE) in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[25-Feb-2021 19:41:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function greet(), 1 passed in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6 and exactly 2 expected in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php(6): greet('Thaina')
+#1 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Rede P...')
+#2 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Rede P...')
+#3 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Rede P...')
+#4 {main}
+  thrown in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[25-Feb-2021 19:41:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function greet(), 1 passed in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6 and exactly 2 expected in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php(6): greet('Thaina')
+#1 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Rede P...')
+#2 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Rede P...')
+#3 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Rede P...')
+#4 {main}
+  thrown in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[25-Feb-2021 19:41:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function greet(), 1 passed in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6 and exactly 2 expected in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php(6): greet('Thaina')
+#1 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Rede P...')
+#2 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Rede P...')
+#3 C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\Rede P...')
+#4 {main}
+  thrown in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[25-Feb-2021 19:53:29 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[28-Feb-2021 15:55:07 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[28-Feb-2021 15:55:08 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[28-Feb-2021 15:55:10 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[28-Feb-2021 15:55:10 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[28-Feb-2021 16:01:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in C:\Users\Rede Parcerias\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
