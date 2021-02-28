@@ -15,7 +15,7 @@
     <div class="full-width-split__inner">
         <h2 class="headline headline--small-plus t-center">Upcoming Events</h2>
 
-        <div class="event-summary">
+        <div class="event-summary"> 
         <a class="event-summary__date t-center" href="#">
             <span class="event-summary__month">Mar</span>
             <span class="event-summary__day">25</span>
