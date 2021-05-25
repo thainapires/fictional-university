@@ -1,35 +1,17 @@
-# Front End GrandBook
+# 🍳 GrandBook
 
-Neste arquivo temos o passo a passo para executar o front end do aplicativo GrandBook.
+O GrandBook é um aplicativo mobile para consulta e controle de receitas da família, desenvolvido durante a disciplina de Projeto e Construção de Sistemas do Cefet/RJ. Até o momento (maio de 2021), foram produzidos os protótipos das telas (o frontend), através do framework React Native em
+conjunto com o Expo, uma ferramenta que é uzilizada para desenvolvimento mobile em conjunto com o React Native e que permite fácil acesso às API's nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código nativo.
 
-## 💻 Pré-requisitos
+Abaixo está a tela inicial do aplicativo:
 
-Antes de rodar, verifique se você atende aos seguintes requisitos:
+<img src="paginainicial.jpg" alt="paginainicial">
 
-* Ter o  `Node.js` instalado: [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-* Ter um package manager instalado `yarn` ou `npm`. O npm já vem instalado com o node, e caso opte pelo yarn: ```npm install --global yarn```
-* Ter a `CLI do Expo` instalada: ```yarn global add expo-cli``` ou ```npm install -g expo-cli```
+## 📁 Estrutura de pastas com os arquivos utilizados:
 
-## ☕ Instalando as dependências do GrandBook:
-
-Para instalar as dependências do projeto GrandBook, iniciando da raiz do projeto, siga estas etapas:
-
-```
-cd src/app/grandbook
-yarn install
-expo install
-```
-
-## 🚀 Executando o projeto:
-
-Para usar GrandBook, já estando na pasta src/app/grandbook, digite o seguinte comando:
-
-```
-expo start
-```
-
-Logo após, no browser será aberta a seguinte aba:
-
-<img src="localhost.jpg" alt="localhost">
-
-Escaneie o QR code e tenha acesso ao aplicativo.
+    .
+    ├── docs/app                # Arquivos de documentação necessários para entendimento do projeto
+    ├── src/app/grandbook       # Arquivos que contém os códigos em React Native desenvolvidos para o projeto
+    └── .gitignore              # Arquivo git ignore
+    └── README.md               # README do projeto
+    └── setup-app.md            # Este passo a passo em relação ao front end do app
